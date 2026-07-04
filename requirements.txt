@@ -1,0 +1,8 @@
+# Billion-Scale Vector Search — runtime dependencies.
+# Offline, CPU-only. Versions are lower bounds known to work with the pinned stack.
+numpy>=1.26
+scikit-learn>=1.4
+pandas>=2.0
+matplotlib>=3.8
+scipy>=1.11
+pytest>=8.0

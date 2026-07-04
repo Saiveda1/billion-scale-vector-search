@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Generated data (streamed shards, queries) — regenerate with `make data`
+data/*
+!data/.gitkeep
+
+# Local scratch
+*.log
+.DS_Store
+
+# NOTE: assets/*.png ARE committed (portfolio screenshots)
+# NOTE: benchmarks/results.csv and RESULTS.md ARE committed (real numbers)
