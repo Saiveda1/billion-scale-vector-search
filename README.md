@@ -72,9 +72,9 @@ Full tables in [`benchmarks/RESULTS.md`](benchmarks/RESULTS.md); raw rows in
 
 ---
 
-## Project Brief
+## Project Document
 
-- Visual PDF brief: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
+- Research report: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
 
 ## Screenshots
 
